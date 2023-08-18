@@ -60,12 +60,12 @@ Follow the instructions below to get the Note App up and running on your local m
 The project structure is organized as follows:
 
 ```
-note-app-redux-toolkit/
+note-app/
   ├── src/
   │    ├── components/
   │    │    ├── NoteList.js
-  │    │    ├── NoteDetail.js
-  │    │    ├── NoteForm.js
+  │    │    ├── Note.js
+  │    │    ├── AddNote.js
   │    ├── features/
   │    │    ├── notes/
   │    │    │    ├── notesSlice.js
